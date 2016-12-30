@@ -1,6 +1,6 @@
 # These and other macros are documented in
 # ../droid-configs-device/droid-configs.inc
-%define device nv531j
+%define device nx531j
 %define vendor nubia
 %define vendor_pretty Nubia
 %define device_pretty Nubia Z11
