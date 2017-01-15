@@ -1,0 +1,1 @@
+/system/etc/hsic.control.bt.sh

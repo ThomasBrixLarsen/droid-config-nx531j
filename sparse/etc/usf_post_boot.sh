@@ -1,0 +1,1 @@
+/system/etc/usf_post_boot.sh

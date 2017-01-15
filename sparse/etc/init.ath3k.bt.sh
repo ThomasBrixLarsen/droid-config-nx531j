@@ -1,0 +1,1 @@
+/system/etc/init.ath3k.bt.sh

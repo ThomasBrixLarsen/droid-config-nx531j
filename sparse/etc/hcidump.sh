@@ -1,0 +1,1 @@
+/system/etc/hcidump.sh
